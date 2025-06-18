@@ -1,1 +1,0 @@
-This is simple test3.txt file in clone git repository.

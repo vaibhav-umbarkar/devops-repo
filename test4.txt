@@ -1,1 +1,0 @@
-This is simple test4.txt file for branch_1.
